@@ -12,6 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Feb 2021-Jun 2024: my green squares went to my workplace's Enterprise GitHub account :)
+
 I’m a creative technologist with a strong product sense. Currently, my interests lie in designing augmented forms of information in digital content, education, and the travel space. I constantly spark ideas from identifying needs, and engineer systems of intersecting technology to answer. 
 My recent projects are towards applications of Generative AI, Human-like Agents, and Computer Vision.
 
@@ -30,4 +32,3 @@ Some of my ideas are good, unfeasible at current behavioural or technology state
 ⚡ Fun facts:
 - I've failed thrice to get into my university’s dance crew.
 - I did a 3 month long hackathon to win a trip to S.Korea, partially motivated by the fact my favourite dance studio classes are there.
-- I kinda wish my workplace's Enterprise GitHub contributions count in my personal GitHub – my green squares are lost!
