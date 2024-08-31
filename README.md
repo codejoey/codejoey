@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Feb 2021-Jun 2024 worked full-time: my green squares went to my workplace's Enterprise GitHub account :)
+Feb 2021-Jul 2024 worked full-time: my green squares went to my workplace's Enterprise GitHub account :)
 
 I’m a creative technologist with a strong product sense. Currently, my interests lie in designing augmented forms of information in digital content, education, and the travel space. I constantly spark ideas from identifying needs, and engineer systems of intersecting technology to answer. 
 My recent projects are towards applications of Generative AI, Human-like Agents, and Computer Vision.
