@@ -12,20 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Feb 2021-Jul 2024 worked full-time: my green squares went to my workplace's Enterprise GitHub account :)
+Feb 2021-Jul 2024 worked full-time: my green squares went to my workplace's Enterprise GitHub account :')
 
-I’m a creative technologist with a strong product sense. Currently, my interests lie in designing augmented forms of information in digital content, education, and the travel space. I constantly spark ideas from identifying needs, and engineer systems of intersecting technology to answer. 
-My recent projects are towards applications of Generative AI, Human-like Agents, and Computer Vision.
-
-🏆 I’ve won 23/32 hackathons. 17 wins were with complete strangers. 3 solo wins. Including wins at Stanford x2, Yale, and MIT x4. More importantly, 32 hackathons of learning - I've written 25k words of reflections, feedback from teammates and my derived learnings.
-
-Some of my ideas are good, unfeasible at current behavioural or technology states, or just weird. I'm always exploring the one I have greatest empathy for - with sound economic and user justification.
-👋 Always open to chat and see if we have a skill fit!
-
-🔭 Products on my horizon:
-- A school report generator app for my Mum.
-- Stealth 1, simplifies a process that everyone in Australia must do.
-- Stealth 2, augments digital content interpretation.
+I’m a creative technologist with a strong product sense. I constantly spark ideas from identifying needs, and engineer systems of intersecting technology to answer. 
+🏆 I’ve won 24/34 hackathons. 18 wins were with complete strangers. 3 solo wins. Including wins at Stanford x2, Yale, and MIT x4. More importantly, 34 hackathons of learning - I've written 25k words of reflections, feedback from teammates and my derived learnings.
 
 🌱 I never want to work on a product which has a business model that relies on getting our users addicted.
 
