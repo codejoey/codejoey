@@ -19,6 +19,4 @@ I’m a creative technologist with a strong product sense. I constantly spark id
 
 🌱 I never want to work on a product which has a business model that relies on getting our users addicted.
 
-⚡ Fun facts:
-- I've failed thrice to get into my university’s dance crew.
-- I did a 3 month long hackathon to win a trip to S.Korea, partially motivated by the fact my favourite dance studio classes are there.
+⚡ Fun facts: I've failed thrice to get into my university’s dance crew. I did a hackathon to win a trip to S.Korea, partially motivated because my favourite dance studio classes are there.
