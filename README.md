@@ -12,8 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Feb 2021-Jul 2024 worked full-time: my green squares went to my workplace's Enterprise GitHub account :')
-
 I’m a creative technologist with a strong product sense. I constantly spark ideas from identifying needs, and engineer systems of intersecting technology to answer. 
 🏆 I’ve won 24/34 hackathons. 18 wins were with complete strangers. 3 solo wins. Including wins at Stanford x2, Yale, and MIT x4. More importantly, 34 hackathons of learning - I've written 25k words of reflections, feedback from teammates and my derived learnings.
 
